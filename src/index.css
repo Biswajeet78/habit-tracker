@@ -1,5 +1,3 @@
-
-
 /* style add for all element */
 * {
     margin: 0%;
@@ -51,7 +49,7 @@
   .addhabit-btn{
     cursor: pointer;
     color: white;
-    background-color: #3662CC;
+    background-color: #17f5f5;
     padding: 8px 20px;
     border-radius: 7px;
   }
@@ -90,7 +88,7 @@
     align-items: center;
   }
   .habit-left i{
-    color: #2AA8D0;
+    color: aqua;
     padding: 10px;
     border-radius: 50%;
     background-color: #304950;
@@ -152,6 +150,6 @@
     cursor: pointer;
   }
   .active{
-    color: #0B5ED7 ;
+    color: aqua ;
   }
   /* ------------------------------------------------------*/
