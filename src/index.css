@@ -20,8 +20,8 @@
     display: flex;
     justify-content: center;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: black;
-    color: white;
+    background-color: rgb(174, 204, 39);
+    color: black;
   }
   
   /* style root div */
